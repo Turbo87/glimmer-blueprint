@@ -7,6 +7,7 @@
     "test": "tests"
   },
   "scripts": {
+
     "build": "ember build",
     "start": "ember server",
     "test": "ember test"
